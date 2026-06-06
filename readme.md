@@ -5,9 +5,9 @@ Course: 数据科学实践 | SUSTech 2026
 
 ## Results
 
-| Model | Val Accuracy | vs. Sample (194 test) |
-|-------|-------------|----------------------|
-| ResNet101 + ViT-B/16 (50/50 fusion) | ~91% | **191/194 (98.5%)** |
+| Model | Kaggle F1 Score |
+|-------|----------------|
+| ResNet101 + ViT-B/16 (50/50 fusion) | **0.83516** |
 
 ---
 
