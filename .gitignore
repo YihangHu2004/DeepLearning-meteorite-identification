@@ -1,0 +1,20 @@
+# 模型权重和大文件
+*.pth
+*.pt
+*.pkl
+run_*/
+logs/
+
+# 图片目录
+test_images/
+train_images/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
